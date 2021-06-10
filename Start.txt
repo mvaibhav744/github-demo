@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-vjbvjbhi this is git 2
-=======
-<<<<<<< HEAD
 hi this is git 3
 =======
 hi this is git 2
 >>>>>>> d9df7bfab54cf6b4f76326ce259006d3db2c6fdb
->>>>>>> 1786bf44cbd4c6b9a8bc0dc3ea3aef5b89145b21
 
 test git quick start demo
