@@ -1,1 +1,3 @@
+hi this is git 3
+
 test git quick start demo
